@@ -1,0 +1,16 @@
+## Interface: 16001
+## Title: Forever Cast Bars - Paladin
+## Title-frFR: Forever Cast Bars - Paladin
+## Title-esES: Forever Cast Bars - Paladín
+## Title-esMX: Forever Cast Bars - Paladín
+## Notes: Paladin pack for Forever Cast Bars: one illustrated, animated bar per paladin spell. Optional.
+## Notes-frFR: Pack Paladin pour Forever Cast Bars : une barre illustrée et animée par sort de paladin. Optionnel.
+## Notes-esES: Paquete de paladín para Forever Cast Bars: una barra ilustrada y animada por hechizo de paladín. Opcional.
+## Notes-esMX: Paquete de paladín para Forever Cast Bars: una barra ilustrada y animada por hechizo de paladín. Opcional.
+## Author: Ghosti
+## Version: 0.0.39
+## X-License: All Rights Reserved
+## Dependencies: ForeverCastBars
+## IconTexture: Interface\Icons\Spell_Holy_HolyBolt
+
+Paladin.lua
